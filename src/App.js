@@ -12,7 +12,6 @@ function App() {
     <AppContainer>
       <Header/>
       <Pesquisa/>
-      <Pesquisa/>
     </AppContainer>
     
   );
